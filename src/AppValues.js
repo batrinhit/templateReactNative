@@ -31,3 +31,13 @@ export const COLOR_BG_DARK_GREY = '#2f3c48';
 export const COLOR_BG_BLACK = '#000000';
 
 export const COLOR_BG_APP = '#eaeaea';
+
+//dinh nghia font-size
+export const SIZE_H1 = 24;
+export const SIZE_H2 = 22;
+export const SIZE_H3 = 20;
+export const SIZE_H4 = 18;
+export const SIZE_H5 = 16;
+export const SIZE_H6 = 14;
+export const SIZE_H7 = 12;
+export const SIZE_H8 = 10;
